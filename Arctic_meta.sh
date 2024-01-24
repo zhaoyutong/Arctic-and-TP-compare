@@ -1,4 +1,4 @@
-#费了九牛二虎之力
+#Thanks for your lovely
 #!/bin/bash
 # by Yuying Chen on 2022/01/08
 # Arctic metagenomic analysis
